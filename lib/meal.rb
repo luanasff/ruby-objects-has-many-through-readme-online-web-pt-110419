@@ -16,3 +16,5 @@ class Meal
   end
  
 end 
+
+
